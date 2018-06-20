@@ -4,6 +4,13 @@ url = "https://pypi.org/simple"
 name = "pypi"
 
 [packages]
+"jinja2" = "*"
+python-dateutil = "*"
+pyyaml = "*"
+numpy = "*"
+packaging = "*"
+six = "*"
+tornado = "*"
 
 [dev-packages]
 
